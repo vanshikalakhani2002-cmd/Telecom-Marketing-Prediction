@@ -53,7 +53,8 @@ telecom-marketing-prediction/
 ├── Modelling.ipynb
 ├── TeleCom_Data-1.xlsx
 ├── Telecommunication Marketing Part 1 Campaign Report.docx
-└── Telecommunication Marketing Part 2 Campaign Report.docx```
+└── Telecommunication Marketing Part 2 Campaign Report.docx
+```
 
 ## Dataset
 

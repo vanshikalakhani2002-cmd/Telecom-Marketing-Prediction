@@ -48,14 +48,12 @@ Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), Jupyter/Google Colab,
 
 ```
 telecom-marketing-prediction/
-├── data/
-│   └── TeleCom_Data-1.xlsx
-├── 01_EDA.ipynb
-├── 02_Modelling.ipynb
-└── reports/
-    ├── EDA_Report.pdf
-    └── Modelling_Report.pdf
-```
+├── README.md
+├── EDA.ipynb
+├── Modelling.ipynb
+├── TeleCom_Data-1.xlsx
+├── Telecommunication Marketing Part 1 Campaign Report.docx
+└── Telecommunication Marketing Part 2 Campaign Report.docx```
 
 ## Dataset
 
